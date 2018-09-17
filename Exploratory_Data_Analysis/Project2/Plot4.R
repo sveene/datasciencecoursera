@@ -1,7 +1,6 @@
 ##Load Plotting Libraries
 library(ggplot2)
 
-
 ##Load Data sets from working directory
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
