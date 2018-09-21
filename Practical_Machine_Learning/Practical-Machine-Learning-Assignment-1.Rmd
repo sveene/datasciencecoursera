@@ -1,6 +1,6 @@
 ---
 title: "Activity Recognition Using Predictive Analytics"
-author: "Yash Kumar Singh"
+author: "Veene"
 output:
   html_document:
     keep_md: yes
