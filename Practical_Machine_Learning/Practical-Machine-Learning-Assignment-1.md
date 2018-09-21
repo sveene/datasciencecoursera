@@ -1,5 +1,4 @@
 # Activity Recognition Using Predictive Analytics
-Yash Kumar Singh  
 
 ## Overview
 
