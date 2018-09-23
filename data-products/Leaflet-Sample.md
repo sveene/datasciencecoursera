@@ -1,6 +1,6 @@
 # Crime in Sacremento, CA
-Yash Kumar Singh  
-August 31, 2017  
+Veene
+September 23, 2018  
 
 The data for this map is taken from the Sacramento Crime January 2006 dataset which contains 7,584 crime records as made available by the Sacramento Police Department. The same is available here: http://samplecsvs.s3.amazonaws.com/SacramentocrimeJanuary2006.csv 
 
