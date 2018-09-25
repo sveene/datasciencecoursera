@@ -1,7 +1,7 @@
 Choose Your Car
 ========================================================
-author: Yash Kumar Singh
-date: September 9, 2017
+author: Veene
+date: September 25, 2018
 autosize: true
 
 Introduction
@@ -10,7 +10,7 @@ Introduction
 This presentation is done as part of the final course project for 'Developing Data Products' course in the Data Science Specialization track by John Hopkins University on Coursera.
 
 The web application is hosted on the link below:
-https://yashkrsingh.shinyapps.io/ChooseYourCar/
+https://sveene.shinyapps.io/ChooseYourCar/
 
 
 Application Overview
